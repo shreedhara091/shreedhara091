@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shreedhar
+# 👋 Hi, I'm Shreedhara
 
 ### 💻 Web Developer
 
