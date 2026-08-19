@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Shreedhar
 
-### 💻 Frontend Developer | Web Developer
+### 💻 Web Developer
 
-I'm a web development enthusiast who enjoys building clean, responsive, and interactive websites.
+I'm a web developer interested in building modern and practical web applications.
 
-* 🌱 Currently learning **JavaScript & React**
-* 💻 Building projects with **HTML, CSS, JavaScript & Tailwind CSS**
-* 🚀 Interested in **Frontend Development**
+* 🌱 Currently learning and improving my **web development skills**
+* 🎨 Frontend: **HTML, CSS, JavaScript & Tailwind CSS**
+* ⚙️ Backend: **Node.js & Express.js**
+* 🗄️ Database: **MongoDB & Mongoose**
+* 🚀 Interested in building real-world projects
 * 🤝 Open to collaborating on web development projects
-* 📚 Continuously learning and improving my development skills
 
 ### 🛠️ Tech Stack
 
@@ -19,24 +20,45 @@ I'm a web development enthusiast who enjoys building clean, responsive, and inte
 * JavaScript
 * Tailwind CSS
 
-**Currently Learning**
+**Backend**
 
-* React
-* Git & GitHub
-* Modern JavaScript
+* Node.js
+* Express.js
 
-### 🚀 Featured Projects
+**Database**
 
-* 🎵 **ShreeMusic** — Spotify-inspired music player built with HTML, CSS and JavaScript
-* 🎬 **CineHub UI** — Movie-focused UI built with HTML and CSS
-* 🐦 **Twitter Clone** — Twitter-inspired frontend built with Tailwind CSS
-* 📚 **Web Development Exercises** — Collection of HTML, CSS and JavaScript exercises
+* MongoDB
+* Mongoose
 
-### 📫 Connect With Me
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+### 🚀 My Projects
+
+🎵 **ShreeMusic**
+A Spotify-inspired music player built with HTML, CSS and JavaScript.
+
+🎬 **CineHub UI**
+A movie-focused UI built using HTML and CSS.
+
+🐦 **Twitter Clone**
+A Twitter-inspired frontend built using Tailwind CSS.
+
+📚 **Web Development Exercises**
+A collection of HTML, CSS, JavaScript and frontend development exercises.
+
+### 🎯 Currently Learning
+
+I'm currently working on improving my skills by building projects and learning modern web development technologies.
+
+### 📫 Contact
 
 * GitHub: [@shreedhara091](https://github.com/shreedhara091)
 * Email: [shreedharamg5@gmail.com](mailto:shreedharamg5@gmail.com)
 
 ---
 
-⭐ Feel free to explore my repositories and follow my development journey!
+⭐ Thanks for visiting my profile!
