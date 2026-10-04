@@ -2,62 +2,66 @@
 
 ### 💻 Web Developer
 
-I'm a web developer interested in building modern and practical web applications.
+I'm a web developer interested in building modern and practical web applications. I enjoy learning new technologies and applying them through real-world projects.
 
-* 🌱 Currently learning and improving my **web development skills**
-* 🎨 Frontend: **HTML, CSS, JavaScript & Tailwind CSS**
-* ⚙️ Backend: **Node.js & Express.js**
-* 🗄️ Database: **MongoDB & Mongoose**
-* 🚀 Interested in building real-world projects
-* 🤝 Open to collaborating on web development projects
+### 🌱 What I'm Working On
+
+- 💻 Building modern web applications
+- ⚛️ Developing applications with **React**
+- 🚀 Improving my **full-stack development** skills
+- 🤝 Open to collaborating on web development projects
 
 ### 🛠️ Tech Stack
 
 **Frontend**
 
-* HTML5
-* CSS3
-* JavaScript
-* Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
 
 **Backend**
 
-* Node.js
-* Express.js
+- Node.js
+- Express.js
 
 **Database**
 
-* MongoDB
-* Mongoose
+- MongoDB
+- Mongoose
 
 **Tools**
 
-* Git
-* GitHub
-* VS Code
+- Git
+- GitHub
+- VS Code
 
 ### 🚀 My Projects
 
-🎵 **ShreeMusic**
+🎵 **ShreeMusic**  
 A Spotify-inspired music player built with HTML, CSS and JavaScript.
 
-🎬 **CineHub UI**
+🎬 **CineHub UI**  
 A movie-focused UI built using HTML and CSS.
 
-🐦 **Twitter Clone**
+🐦 **Twitter Clone**  
 A Twitter-inspired frontend built using Tailwind CSS.
 
-📚 **Web Development Exercises**
+📝 **ShreeTodo**  
+A Todo application built using React and Tailwind CSS.
+
+📚 **Web Development Exercises**  
 A collection of HTML, CSS, JavaScript and frontend development exercises.
 
 ### 🎯 Currently Learning
 
-I'm currently working on improving my skills by building projects and learning modern web development technologies.
+I'm currently focusing on **React, Node.js, Express.js and full-stack development**, while building projects to improve my practical skills.
 
 ### 📫 Contact
 
-* GitHub: [@shreedhara091](https://github.com/shreedhara091)
-* Email: [shreedharamg5@gmail.com](mailto:shreedharamg5@gmail.com)
+- GitHub: [@shreedhara091](https://github.com/shreedhara091)
+- Email: shreedharamg5@gmail.com
 
 ---
 
